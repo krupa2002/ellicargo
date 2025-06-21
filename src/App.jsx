@@ -61,7 +61,7 @@ function App() {
           <div className="about-text">
             <h2>About Us</h2>
             <p>
-              Elipsis Technologies is a forward-thinking software company dedicated to transforming the logistics industry.
+              Ellicargo is a forward-thinking software company dedicated to transforming the logistics industry.
               Our mission is to simplify and automate supply chain processes through cutting-edge digital tools tailored to your business needs.<br /><br />
               With a deep understanding of logistics workflows, we create intelligent solutions for shipment tracking, warehouse optimization, route planning, and data-driven decision-making.<br /><br />
               Let technology drive your logistics forward — the smart way.
@@ -109,7 +109,7 @@ function App() {
       {/* Footer */}
       <footer>
         <p><strong>Ellipsis Technologies</strong> – Logistics Simplified</p>
-        <p>Email: info@ellipsis.com | Phone: +91-8850613151</p>
+        <p>Email: info@ellicargo.com | Phone: +91-8850613151</p>
       </footer>
     </>
   );
