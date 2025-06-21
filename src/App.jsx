@@ -108,7 +108,7 @@ function App() {
 
       {/* Footer */}
       <footer>
-        <p><strong>Ellipsis Technologies</strong> – Logistics Simplified</p>
+        <p><strong>Ellicargo</strong> – Logistics Simplified</p>
         <p>Email: info@ellicargo.com | Phone: +91-8850613151</p>
       </footer>
     </>
